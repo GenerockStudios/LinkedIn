@@ -1,0 +1,12 @@
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Persistence\bin\Debug\net7.0\LinkedIn.Persistence.deps.json
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Persistence\bin\Debug\net7.0\LinkedIn.Persistence.dll
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Persistence\bin\Debug\net7.0\LinkedIn.Persistence.pdb
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Persistence\obj\Debug\net7.0\LinkedIn.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Persistence\obj\Debug\net7.0\LinkedIn.Persistence.AssemblyInfoInputs.cache
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Persistence\obj\Debug\net7.0\LinkedIn.Persistence.AssemblyInfo.cs
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Persistence\obj\Debug\net7.0\LinkedIn.Persistence.csproj.CoreCompileInputs.cache
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Persistence\obj\Debug\net7.0\LinkedIn.Persistence.sourcelink.json
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Persistence\obj\Debug\net7.0\LinkedIn.Persistence.dll
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Persistence\obj\Debug\net7.0\refint\LinkedIn.Persistence.dll
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Persistence\obj\Debug\net7.0\LinkedIn.Persistence.pdb
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Persistence\obj\Debug\net7.0\ref\LinkedIn.Persistence.dll

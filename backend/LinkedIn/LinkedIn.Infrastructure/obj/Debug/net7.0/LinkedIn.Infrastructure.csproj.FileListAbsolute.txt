@@ -1,0 +1,12 @@
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Infrastructure\bin\Debug\net7.0\LinkedIn.Infrastructure.deps.json
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Infrastructure\bin\Debug\net7.0\LinkedIn.Infrastructure.dll
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Infrastructure\bin\Debug\net7.0\LinkedIn.Infrastructure.pdb
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Infrastructure\obj\Debug\net7.0\LinkedIn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Infrastructure\obj\Debug\net7.0\LinkedIn.Infrastructure.AssemblyInfoInputs.cache
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Infrastructure\obj\Debug\net7.0\LinkedIn.Infrastructure.AssemblyInfo.cs
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Infrastructure\obj\Debug\net7.0\LinkedIn.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Infrastructure\obj\Debug\net7.0\LinkedIn.Infrastructure.sourcelink.json
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Infrastructure\obj\Debug\net7.0\LinkedIn.Infrastructure.dll
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Infrastructure\obj\Debug\net7.0\refint\LinkedIn.Infrastructure.dll
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Infrastructure\obj\Debug\net7.0\LinkedIn.Infrastructure.pdb
+D:\Work\Projets\Clonning\LinkedIn\backend\LinkedIn\LinkedIn.Infrastructure\obj\Debug\net7.0\ref\LinkedIn.Infrastructure.dll

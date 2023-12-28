@@ -29,5 +29,11 @@ namespace LinkedIn.Api.Controllers
             })
             .ToArray();
         }
+
+        [HttpPost("Control")]
+        public IActionResult WeatherForecast()
+        {
+            return Ok();
+        }
     }
 }

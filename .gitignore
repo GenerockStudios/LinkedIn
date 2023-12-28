@@ -128,3 +128,4 @@ dist
 *.vsidx
 *.v2
 backend/LinkedIn/.vs/LinkedIn/v17/.suo
+*.dll

@@ -1,27 +1,36 @@
-# Linkedin
+## Folders architecture
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.5.
+### shared
+    + components <contains all shared components of application>
+    + services < contains all shared services of application >
+        + http < contains all shared http request >
+        + dependencies < contains all dependencies injection >
+    + store < contains global state or store of application >
+    + settings < configuration of application >
+    + utils < utilities of application >
 
-## Development server
+This folder contains all shared objects of application
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## < Name of functionnality or group of functionnality >
+## components
+    + <name component>
+Process to naming components <Name_of_functionnality.Name_Of_Component.components.extension>
+### services
+    + http
+    + dependencies
+This folder content, Http services for communication with backend and dependencies injections. This reparties
+### store
+    + <all stores files[]>
+This folder contains reducer and dispactcher, needed to store and update data
+### styles
+    + < All shared styles files of current functionnality >
+This folder contains all css or scss files of functionnality
+### settings
+    + <file contains configuration of functionnality>
+This folder contains all file configuration of functionnality
+### utils
+    + <all features utils for functionnality>
+This folder contains all classes utilities of current functionnality
+### routes
+    + <file contains all routes lazy>
+This folder contains all asynchronous routes (more performant) of current functionnality
